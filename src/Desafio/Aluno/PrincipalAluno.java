@@ -1,4 +1,4 @@
-package Desafio;
+package Desafio.Aluno;
 
 public class PrincipalAluno {
     public static void main(String[] args) {

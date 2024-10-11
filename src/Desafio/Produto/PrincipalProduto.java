@@ -1,4 +1,4 @@
-package Desafio;
+package Desafio.Produto;
 
 public class PrincipalProduto {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Desafio;
+package Desafio.IdadePessoa;
 
 public class idadePessoa {
     private String nome;

@@ -1,4 +1,4 @@
-package Desafio;
+package Desafio.IdadePessoa;
 
 public class PrincipalIdadePessoa {
     public static void main(String[] args) {

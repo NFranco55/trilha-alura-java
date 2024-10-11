@@ -1,4 +1,4 @@
-package Desafio;
+package Desafio.ContaBancaria;
 
 public class PrincipalContaBancaria {
     public static void main(String[] args) {

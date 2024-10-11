@@ -1,4 +1,4 @@
-package Desafio;
+package Desafio.ContaBancaria;
 
 public class ContaBancaria {
     private int numeroConta;

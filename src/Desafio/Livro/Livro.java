@@ -1,4 +1,4 @@
-package Desafio;
+package Desafio.Livro;
 
 public class Livro {
     private String titulo;
